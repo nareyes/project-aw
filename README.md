@@ -1,2 +1,1 @@
-# project-aw
-Adventure Works Database Design
+# Adventure Works Database Design
