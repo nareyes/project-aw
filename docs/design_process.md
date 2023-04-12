@@ -1,4 +1,18 @@
-# Database Design Process
+# Database/Datawarehouse Design Process
+
+<br>
+
+## High-Level Design Overview
+- Requirements Gathering: Understanding the business needs and data requirements for the database or data warehouse.
+- Conceptual Design: Developing a high-level design that outlines the entities, attributes, and relationships between them.
+- Logical Design: Creating a detailed representation of the database or data warehouse, including data types, constraints, and relationships.
+- Physical Design: Specifying the hardware and software requirements, data storage options, and performance considerations.
+- Data Modeling: Creating a dimensional data model that organizes data into facts and dimensions for efficient querying and reporting.
+
+<br>
+
+# Detailed Design Steps
+
 <br>
 
 ## Define Mission Statement and Mission Objectives
@@ -36,3 +50,6 @@
 - Review field specifications
 - Test validity of relationships
 - Review and confirm business rules
+
+## Determine and Establish Data Model (Data Warehouse Design)
+- Organize data into facts and dimensions
